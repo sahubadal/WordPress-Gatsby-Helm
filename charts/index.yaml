@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  wp-gats-helm:
+  - apiVersion: v1
+    created: "2022-11-29T15:04:40.911750855+05:30"
+    description: Helm Chart for wordpress-gatsby
+    digest: b510230c7c8f5504921def8acaf517dfce6e9663b4cacd184892819635187870
+    keywords:
+    - wordpress-gatsby
+    name: wp-gats-helm
+    type: application
+    urls:
+    - wp-gats-helm-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-11-29T15:04:40.910445877+05:30"

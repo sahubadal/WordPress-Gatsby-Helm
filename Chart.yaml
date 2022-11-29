@@ -1,0 +1,9 @@
+name: wp-gats-helm
+description: Helm Chart for wordpress-gatsby
+type: application
+version: 0.0.1
+apiVersion: v1
+keywords:
+  - wordpress-gatsby
+sources:
+home:
